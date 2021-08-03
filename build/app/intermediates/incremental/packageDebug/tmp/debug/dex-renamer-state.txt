@@ -1,4 +1,4 @@
-#Thu Jul 29 14:28:04 EAT 2021
+#Mon Aug 02 21:10:51 EAT 2021
 base.0=/media/ntwali/ANDY/flutter_apps/scales/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
